@@ -105,3 +105,5 @@ print("Hareketli Ortalama, bir zaman serisindeki verilerin, belirli bir 'pencere
 print("Bu yöntem, kısa vadeli rastgele dalgalanmaları (gürültüyü) yumuşatarak ana trendi ortaya çıkarmayı ve gelecekteki bir değeri tahmin etmeyi amaçlar.")
 print("Formül: $MA = \\frac{P_t + P_{t-1} + \\dots + P_{t-N+1}}{N}$")
 print("Burada $P$ sıcaklık değerini, $t$ zamanı ve $N$ pencere uzunluğunu (7) temsil eder.")
+
+//
