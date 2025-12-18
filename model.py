@@ -106,4 +106,4 @@ print("Bu yöntem, kısa vadeli rastgele dalgalanmaları (gürültüyü) yumuşa
 print("Formül: $MA = \\frac{P_t + P_{t-1} + \\dots + P_{t-N+1}}{N}$")
 print("Burada $P$ sıcaklık değerini, $t$ zamanı ve $N$ pencere uzunluğunu (7) temsil eder.")
 
-//
+#
